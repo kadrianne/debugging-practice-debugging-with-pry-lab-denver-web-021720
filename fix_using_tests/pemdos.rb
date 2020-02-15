@@ -3,6 +3,7 @@ def snake_it_up(string)
   i = 0
     while i < 10
       string = "s" + string
+      i+=1
     end
   else
   string
